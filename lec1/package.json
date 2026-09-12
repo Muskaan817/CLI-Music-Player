@@ -1,0 +1,13 @@
+{
+  "name": "cli-music-player",
+  "version": "1.0.0",
+  "description": "Interactive CLI Music Player demonstrating CLI development, file handling, and process management.",
+  "main": "player.js",
+  "scripts": {
+    "start": "node player.js",
+    "test": "node test.js"
+  },
+  "keywords": ["cli", "audio", "music-player", "process-management"],
+  "author": "",
+  "license": "ISC"
+}

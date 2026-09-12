@@ -3,4 +3,3 @@ const childProcess=spawn("ls")
 childProcess.stdout.on('data',(data)=>{
     console.log(data.toString())
 })
-// console.log(childProcess)
